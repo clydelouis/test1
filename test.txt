@@ -1,1 +1,4 @@
 1232123123
+
+git config --global user.email "812456758@qq.com"
+git config --global user.name "CL"
